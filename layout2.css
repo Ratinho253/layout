@@ -1,0 +1,45 @@
+body{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 4fr 1fr;
+
+}
+header{
+    background-color: tomato;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+
+}
+nav{
+    background-color: plum;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+article{
+    background-color: greenyellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+aside{
+    background-color: khaki;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+footer{
+    background-color: indigo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
