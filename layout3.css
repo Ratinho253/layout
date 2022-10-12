@@ -25,7 +25,7 @@ nav{
 
 }
 main{
-    background-color: cyan;
+    background-color: blue;
     grid-area: main;
     display: flex;
     align-items: center;
